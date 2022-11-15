@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\Pig-Latin-Translator-OOP\Pig-Latin-Translator-OOP\bin\Debug\net6.0\Pig-Latin-Translator-OOP.exe
+C:\Users\HP\source\repos\Pig-Latin-Translator-OOP\Pig-Latin-Translator-OOP\bin\Debug\net6.0\Pig-Latin-Translator-OOP.deps.json
+C:\Users\HP\source\repos\Pig-Latin-Translator-OOP\Pig-Latin-Translator-OOP\bin\Debug\net6.0\Pig-Latin-Translator-OOP.runtimeconfig.json
+C:\Users\HP\source\repos\Pig-Latin-Translator-OOP\Pig-Latin-Translator-OOP\bin\Debug\net6.0\Pig-Latin-Translator-OOP.dll
+C:\Users\HP\source\repos\Pig-Latin-Translator-OOP\Pig-Latin-Translator-OOP\bin\Debug\net6.0\Pig-Latin-Translator-OOP.pdb
+C:\Users\HP\source\repos\Pig-Latin-Translator-OOP\Pig-Latin-Translator-OOP\obj\Debug\net6.0\Pig-Latin-Translator-OOP.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Pig-Latin-Translator-OOP\Pig-Latin-Translator-OOP\obj\Debug\net6.0\Pig-Latin-Translator-OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Pig-Latin-Translator-OOP\Pig-Latin-Translator-OOP\obj\Debug\net6.0\Pig-Latin-Translator-OOP.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Pig-Latin-Translator-OOP\Pig-Latin-Translator-OOP\obj\Debug\net6.0\Pig-Latin-Translator-OOP.AssemblyInfo.cs
+C:\Users\HP\source\repos\Pig-Latin-Translator-OOP\Pig-Latin-Translator-OOP\obj\Debug\net6.0\Pig-Latin-Translator-OOP.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Pig-Latin-Translator-OOP\Pig-Latin-Translator-OOP\obj\Debug\net6.0\Pig-Latin-Translator-OOP.dll
+C:\Users\HP\source\repos\Pig-Latin-Translator-OOP\Pig-Latin-Translator-OOP\obj\Debug\net6.0\refint\Pig-Latin-Translator-OOP.dll
+C:\Users\HP\source\repos\Pig-Latin-Translator-OOP\Pig-Latin-Translator-OOP\obj\Debug\net6.0\Pig-Latin-Translator-OOP.pdb
+C:\Users\HP\source\repos\Pig-Latin-Translator-OOP\Pig-Latin-Translator-OOP\obj\Debug\net6.0\Pig-Latin-Translator-OOP.genruntimeconfig.cache
+C:\Users\HP\source\repos\Pig-Latin-Translator-OOP\Pig-Latin-Translator-OOP\obj\Debug\net6.0\ref\Pig-Latin-Translator-OOP.dll
